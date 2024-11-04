@@ -5,7 +5,7 @@
 <img  align="right" width="130" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVnaHdwbG12dnAzdWI4dG9xODI2MndoenYwZ2V4cGlvcW12azVoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0Gn3SjODrZCyi6qCsp/giphy.webp">
 
 ### 🎓 I'm currently studying in [IFCE](https://ifce.edu.br/maracanau)
-### 🌱 I’m currently learning HTML, CSS, Javascript, React
+### 🌱 I’m currently learning C, HTML, CSS, Javascript, React
 ### 🔭 I’m currently searching for opportunities 
 
 
